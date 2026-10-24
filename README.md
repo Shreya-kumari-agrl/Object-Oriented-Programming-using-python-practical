@@ -1,7 +1,7 @@
 # Object-Oriented-Programming-using-python-practical
 # Student Details
-Name- Shreya Kumari
-Roll No. - 26570056
-Course- B.Sc. Computer Science
-Semester- 1
-College- Ramanujan College, University Of Delhi
+Name- Shreya Kumari<br>
+Roll No. - 26570056<br>
+Course- B.Sc. Computer Science<br>
+Semester- 1<br>
+College- Ramanujan College, University Of Delhi<br>
