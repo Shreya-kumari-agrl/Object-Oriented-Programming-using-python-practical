@@ -9,3 +9,5 @@ College- Ramanujan College, University Of Delhi<br>
 # output
 # practical 1
 <img width="1920" height="1200" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/8d8b1340-73c6-493c-9841-1249b4ec3ee0" />
+# practical 2
+<img width="1920" height="1200" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/e059a4cc-538b-49fd-8235-223e536f27f8" />
